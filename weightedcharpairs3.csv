@@ -21,7 +21,7 @@ Anchises,Jupiter,10
 Aeneas,Latinus,10
 Ascanius,Turnus,10
 Aeneas,Cupid,9
-Aeneas,Sibyl,9
+Aeneas,Juno,9
 Lavinia,Turnus,9
 Aeneas,Pallas,9
 Venus,Turnus,9
@@ -70,7 +70,7 @@ Creusa,Priam,4
 Pyrrhus,Priam,4
 Aeneas,Euryalus,4
 Aeneas,Nisus,4
-Anchises,Sibyl,4
+Anchises,Juno,4
 Turnus,Aeolus,4
 Dido,Venus,4
 Dido,Ascanius,4
@@ -91,7 +91,7 @@ Apollo,Mars,3
 Venus,Achates,3
 Evander,Jupiter,3
 Pallas,Mezentius,3
-Apollo,Sibyl,3
+Apollo,Juno,3
 Priam,Aeolus,3
 Anchises,Turnus,3
 Achates,Mars,3
@@ -128,7 +128,7 @@ Achates,Aeolus,2
 Priam,Diomedes,2
 Priam,Mars,2
 Venus,Vulcan,2
-Jupiter,Sibyl,2
+Jupiter,Juno,2
 Jupiter,Lausus,2
 Euryalus,Cupid,2
 Turnus,Minerva,2
@@ -199,7 +199,7 @@ Allecto,Latinus,1
 Anchises,Neptune,1
 Allecto,Mars,1
 Aeneas,Drances,1
-Aeolus,Sibyl,1
+Aeolus,Juno,1
 Aeneas,Creusa,1
 Minerva,Diomedes,1
 Minerva,Aeolus,1
@@ -209,7 +209,7 @@ Latinus,Diomedes,1
 Aeneas,Pyrrhus,1
 Latinus,Vulcan,1
 Sinon,Mars,1
-Achates,Sibyl,1
+Achates,Juno,1
 Achates,Minerva,1
 Achates,Vulcan,1
 Achates,Sychaeus,1
@@ -217,7 +217,7 @@ Aeneas,Anna,1
 Augustus,Turnus,1
 Apollo,Achates,1
 Drances,Vulcan,1
-Turnus,Sibyl,1
+Turnus,Juno,1
 Anchises,Dido,1
 Anchises,Lavinia,1
 Anchises,Evander,1
@@ -291,7 +291,7 @@ Ascanius,Allecto,1
 Ascanius,Mercury,1
 Ascanius,Nisus,1
 Ascanius,Camilla,1
-Hector,Sibyl,1
+Hector,Juno,1
 Jupiter,Diomedes,1
 Lavinia,Pallas,1
 Lavinia,Evander,1
@@ -300,4 +300,4 @@ Jupiter,Latinus,1
 Jupiter,Sinon,1
 Jupiter,Anna,1
 Lavinia,Jupiter,1
-Mars,Sibyl,1
+Mars,Juno,1
